@@ -1,0 +1,105 @@
+.one {
+  background-color: gray;
+  width: 700px;
+  height: 400px;
+}
+
+.two {
+  position: absolute;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+.three {
+  position: absolute;
+  left: 80px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.four {
+  position: absolute;
+  left: 152px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.five {
+  position: absolute;
+  top: 80px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+.six {
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.seven {
+  position: absolute;
+  top: 152px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.eight {
+  position: absolute;
+  top: 337px;
+  left: 637px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.nine {
+  position: absolute;
+  top: 337px;
+  left: 565px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.ten {
+  position: absolute;
+  top: 337px;
+  left: 493px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.eleven {
+  position: absolute;
+  top: 265px;
+  left: 637px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.twelve {
+  position: absolute;
+  top: 265px;
+  left: 565px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
+
+.last {
+  position: absolute;
+  top: 193px;
+  left: 637px;
+  background-color: black;
+  width: 70px;
+  height: 70px;
+}
